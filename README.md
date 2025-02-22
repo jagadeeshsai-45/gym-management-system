@@ -1,13 +1,8 @@
-# gym-management-system
- Gym Management System, need a full-stack application with the following key components:
-Tech Stack:
-Backend: Node.js with Express.js
-Database: MySQL (or PostgreSQL)
-Frontend: React.js (or Next.js for SEO benefits)
-Authentication: JWT-based authentication (for users, trainers, and admins)
-Cloud Storage: AWS S3, Firebase Storage, or Cloudinary (for profile images)
-Hosting:
-  Backend: Google Cloud Run / AWS / DigitalOcean / Vercel
-  Frontend: Vercel / Netlify
-  Database: Supabase / PlanetScale / AWS RDS
-  Payment Gateway: Stripe or Razorpay
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
